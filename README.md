@@ -1,7 +1,7 @@
 # iTCGA_Workshop_Salicornia_Eutrophication
-In this project we compare the effects of ammonium and nitrate on root growth and flower production in Salicornia depressa. Analyze how nitrogen availability influences gene expression to uncover insights into nutrient uptake mechanisms, stress tolerance, and reproductive fitness.
+Salicornia serves an important function in marsh ecosystems and may be threatenened by eutrophication. In this project we compare the effects of ammonium and nitrate on root growth and flower production in Salicornia depressa. Analyze how nitrogen availability influences gene expression to uncover insights into nutrient uptake mechanisms, stress tolerance, and reproductive fitness.
 
-# iTGCA: Integrated Training in Computational Genomics and Data Sciences funded by NIH/NCL Grant #U54CA156734-13S2
+# iTGCA: Integrated Training in Computational Genomics and Data Sciences *funded by NIH/NCL Grant #U54CA156734-13S2*
 
 # **Expressional Response to Ammonium and Nitrate in *Salicornia depressa***
 
@@ -85,10 +85,13 @@ The RNA-Seq analysis pipeline includes:
 - Johnson, D. S., et al. (2016). Saltmarsh plant responses to eutrophication. *Ecological Applications.*
 - Bloom, A. J., et al. (2003). Root growth as a function of ammonium and nitrate in the root zone. *Plant Cell and Environment.*
 - Salazar, O. R., et al. (2024). SOS1 tonoplast neo-localization and the RGG protein SALTY in *Salicornia bigelovii*. *Nature Communications.*
+- Guo et al. (2022). Transcriptome analysis reveals multiple effects of nitrogen accumulation and metabolism in the roots, shoots, and leaves of potato (Solanum tuberosum L.). *BMC Plant Biology*
+- Dahuja et al. (2021). Role of ATP-binding cassette transporters in maintaining plant homeostasis under abiotic and biotic stresses. *Physiologia Plantarum*
+- Janowska et al. (2019). Mechanisms of Small Heat Shock Proteins. *Cold Spring Harbor Perspectives in Biology*
 
 ---
 
 ## **Contact**
 For any questions or contributions, please contact:
-- **Project Lead**: [Your Name]  
-- **Email**: [Your Email]
+- **Project Leads**: Jeny Sherchan, Jayna Fawcett, Sean Hernon
+- **Email**: sherchan.jen1@gmail.com, jayna.k.fawcett@gmail.com, seanhernon@verizon.com 
